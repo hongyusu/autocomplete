@@ -4,11 +4,11 @@
 from setuptools import setup
 
 setup(
-name='autofill',
+name='autocomplete',
 url='',
 author='hongyu',
 author_email='hongyu.su@me.com',
-packages=['autocomplete'],
+packages=['models'],
 install_requires=[],
 version='0.1',
 license='MIT',
